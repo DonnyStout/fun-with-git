@@ -10,3 +10,5 @@ Playing with Git
 4. Version Control
 5. Learning branching
 6. Adding files to add to update
+5. Lots of changes
+6. Something different
