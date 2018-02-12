@@ -8,4 +8,5 @@ Playing with Git
 2. Learn Git
 3. Enlightenment
 4. Version Control
-5. Yay!!
+5. Learning branching
+6. Adding files to add to update
